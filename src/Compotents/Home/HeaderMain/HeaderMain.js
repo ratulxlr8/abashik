@@ -1,55 +1,9 @@
 import React from "react";
-import logo from "../Images/Logo.png";
-import "./Header.css";
-import home from "../Images/Inked6946_LI 1.png";
-const Header = () => {
+import "./HeaderMain.css";
+const HeaderMain = () => {
   return (
     <div>
       <section className=" bg-image-shape">
-        <nav class="container-fluid navbar navbar-expand-lg navbar-light ">
-          <img className="logoImg" src={logo} alt="" />
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarNav"
-            aria-controls="navbarNav"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse " id="navbarNav">
-            <ul class="navbar-nav ml-auto">
-              <li class="nav-item active">
-                <a class="nav-link mr-5 text-light" href="#">
-                  Home <span class="sr-only">(current)</span>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link mr-5 text-light" href="#">
-                  About
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link mr-5 text-light" href="#">
-                  Sign up
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link mr-5 text-light" href="#">
-                  Sign In
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link mr-5 text-light" href="#">
-                  Contact
-                </a>
-              </li>
-            </ul>
-          </div>
-        </nav>
-
         <div className="container-fluid banner-area">
           <div className="row ">
             <div className="col-md-4 text-area-custom mx-5 ">
@@ -77,7 +31,7 @@ const Header = () => {
         </div>
       </section>
       {/* About Us Section Starts Here */}
-      <section className="row container-fluid px-5">
+      <section className="row container-fluid px-5" id="aboutID">
         <div className="col-md-5">
           <h1 className=" display-1 font-weight-bold blus-cus">About Us</h1>
           <p className="text-justify mt-3">
@@ -177,4 +131,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default HeaderMain;

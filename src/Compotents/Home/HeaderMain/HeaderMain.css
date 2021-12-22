@@ -1,9 +1,10 @@
 .logoImg {
   width: 5%;
 }
+
 .bg-image-shape {
   margin: 0;
-  background-image: url("../Images/Vector\ 1.png");
+  background-image: url("../../Images/Vector\ 1.png");
   background-repeat: no-repeat;
   background-position: top right;
   width: 100%;
@@ -11,25 +12,26 @@
   margin-top: -3px;
 }
 .bg-banner-area-cus {
-  background-image: url("../Images/Inked6946_LI\ 1.png");
+  background-image: url("../../Images/Inked6946_LI\ 1.png");
   background-repeat: no-repeat;
   background-position: left;
   width: 100%;
   min-height: 80vh;
   z-index: -1;
+  margin-top: 15%;
 }
 .banner-area {
-  margin-top: 10%;
   min-height: 100vh;
+  margin-top: -5%;
 }
 .text-area-custom {
-  margin-top: 10%;
+  margin-top: 25%;
 }
 .blus-cus {
   color: #4683ef;
 }
 .aboutUs-image {
-  background-image: url("../Images/20944999\ 1.png");
+  background-image: url("../../Images/20944999\ 1.png");
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;

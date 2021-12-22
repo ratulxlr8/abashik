@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/abashik/static/css/main.c69bec96.chunk.css",
+    "main.js": "/abashik/static/js/main.ce484c7b.chunk.js",
+    "main.js.map": "/abashik/static/js/main.ce484c7b.chunk.js.map",
+    "runtime-main.js": "/abashik/static/js/runtime-main.0931b372.js",
+    "runtime-main.js.map": "/abashik/static/js/runtime-main.0931b372.js.map",
+    "static/js/2.da88a420.chunk.js": "/abashik/static/js/2.da88a420.chunk.js",
+    "static/js/2.da88a420.chunk.js.map": "/abashik/static/js/2.da88a420.chunk.js.map",
+    "static/js/3.f1e5b9ca.chunk.js": "/abashik/static/js/3.f1e5b9ca.chunk.js",
+    "static/js/3.f1e5b9ca.chunk.js.map": "/abashik/static/js/3.f1e5b9ca.chunk.js.map",
+    "index.html": "/abashik/index.html",
+    "static/css/main.c69bec96.chunk.css.map": "/abashik/static/css/main.c69bec96.chunk.css.map",
+    "static/js/2.da88a420.chunk.js.LICENSE.txt": "/abashik/static/js/2.da88a420.chunk.js.LICENSE.txt",
+    "static/media/HeaderMain.css": "/abashik/static/media/Vector 1.2bbdcec4.png",
+    "static/media/Logo.6f3f1f1f.png": "/abashik/static/media/Logo.6f3f1f1f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0931b372.js",
+    "static/js/2.da88a420.chunk.js",
+    "static/css/main.c69bec96.chunk.css",
+    "static/js/main.ce484c7b.chunk.js"
+  ]
+}

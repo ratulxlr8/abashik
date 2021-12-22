@@ -24,7 +24,7 @@ const Navabar = () => {
           </button>
           <div class="collapse navbar-collapse " id="navbarNav">
             <ul class="navbar-nav ml-auto">
-              <Link to="/" smooth>
+              <Link to="/abashik" smooth>
                 <li class="nav-item">
                   <a class="nav-link mr-5 text-light" href="#">
                     Home
